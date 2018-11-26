@@ -1,6 +1,6 @@
 let nums = [0x7E, 0x30, 0x6D, 0x79, 0x33, 0x5B, 0x5F, 0x70, 0x7F, 0x7B];
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(windowWidth, windowHeight);
   frameRate(3);
 }
 
